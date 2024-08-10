@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Projects/ryantailwindcss-10/package/ryan/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
